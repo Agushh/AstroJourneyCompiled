@@ -1,3 +1,4 @@
+# * OUTDATED *
 # AstroJourney
 Astro Journey es un videojuego 2D de supervivencia espacial. Este videojuego se encuentra en etapa de desarrollo.
 El juego consiste en un jugador que podra viajar en diversos planetas procedimentales. Estilo retro - pixel art.
