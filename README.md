@@ -22,8 +22,8 @@ a la vez se trabaja con RuleTiles, esto hace que cada bloque se una dinamicament
 Para que el juego tenga mas volumen y mas enriquecimiento grafico, se creo un codigo que crea un mapa de pixeles en un rango entre 0 y 1, con la iluminacion de cada tile, esto luego se aplica con un shader por encima de la textura de los bloques. El resultado es el siguiente :  
 ![image](https://github.com/Agushh/AstroJourneyCompiled/assets/67559610/1d52171c-556f-44bd-88ca-e4740959b552)
 # Mecanicas del jugador : 
-A dia de hoy ya se tiene un personaje principal con mecanicas de movimiento basicas, y animaciones y diseño grafico. Las mecanicas de este personaje consisten en : Moverse izquierda y derecha, saltar y mirar hacia donde se encuentre el mouse. A futuro se buscara aplicar muchas mas mecanicas alrededor del jugador. El jugador es el siguiente :  
+Personaje principal con mecanicas de movimiento basicas, y animaciones y diseño grafico. Las mecanicas de este personaje consisten en : Moverse izquierda y derecha, saltar y mirar hacia donde se encuentre el mouse.
 ![Desktop_2023_08_03_-_21_32_43_02_AdobeExpress_AdobeExpress](https://github.com/Agushh/AstroJourneyCompiled/assets/67559610/b1be75d5-e968-405b-9242-ed92742dfba3)
-# Metal Ball :
-El jugador es acompañado por una bola de metal futurista que dispondra a futuro las mecanicas de poder modificar el terreno. Esta es :  
-![image](https://github.com/Agushh/AstroJourneyCompiled/assets/67559610/ca27b5b9-4dd8-49c7-93c4-71e111f5a402)
+# Version 1.1.3
+Pequeño video demostrativo acerca de la version 1.1.3 : 
+https://youtu.be/K2AWMYYg9is
