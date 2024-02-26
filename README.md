@@ -1,6 +1,6 @@
 # * OUTDATED *
 
-#Como Ejecutar :
+# Como Ejecutar :
 Luego de descargar el .zip con todas las versiones debera seleccionar la version y ejecutar el archivo que diga AstroJourney.Exe (en caso de la version 1.1.3 en adelante debera descomprimir el .rar y luego ejecutar el mismo archivo)
 
 # AstroJourney
