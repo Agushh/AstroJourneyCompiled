@@ -59,6 +59,7 @@ Watch a short gameplay demonstration of version 1.1.4 here:
 **Agustín Zalazar**  
 📧 agustinzalazar9@gmail.com  
 🔗 [Game Repository](https://github.com/Agushh/AstroJourneyCompiled/)
+🔗 [ItchIo Page with game](https://agushh.itch.io/astrojourney)
 
 ---
 
