@@ -9,14 +9,13 @@ Created with **Unity** and **C#**, featuring retro **pixel art** style graphics.
 
 Astro Journey blends exploration, construction, and destruction mechanics within a procedurally generated universe. Inspired by games like **Minecraft**, **Terraria**, and **Starbound**, this project aims to deliver a free-form gameplay experience focused on player interaction and progression.
 
-The game is currently in **Alpha** stage, developed by a single student, making it an ambitious project that will keep evolving.
+The game is currently in **Alpha** stage, developed by a single student, making it an ambitious project that just stopped.
 
 ---
 
 ### 🚀 How to Run
 
-After downloading the `.zip` containing all versions, select the desired version and run the executable named `AstroJourney.exe`.  
-For versions 1.1.3 and later, first extract the `.rar` file and then run the executable.
+After downloading the game, hit and run the executable named `AstroJourney.exe`.  
 
 ---
 
@@ -48,9 +47,9 @@ Currently implemented features include:
 
 ---
 
-### 🎥 Demo Video (Version 1.1.3)
+### 🎥 Demo Video (Version 1.1.4)
 
-Watch a short gameplay demonstration of version 1.1.3 here:  
+Watch a short gameplay demonstration of version 1.1.4 here:  
 [https://youtu.be/K2AWMYYg9is](https://youtu.be/K2AWMYYg9is)
 
 ---
@@ -74,11 +73,5 @@ Watch a short gameplay demonstration of version 1.1.3 here:
 #### Procedural Shader Textures:  
 ![Shader Textures](https://github.com/Agushh/AstroJourneyCompiled/assets/67559610/0e965fd7-4e9b-4bc0-9669-63f36336482d)
 
-#### RuleTiles Dynamic Block Connection:  
-![RuleTiles](https://github.com/Agushh/AstroJourneyCompiled/assets/67559610/665170d9-3461-4470-87f7-e7153b7e7210)
-
 #### Dynamic Lightmap Shader:  
 ![Lightmap](https://github.com/Agushh/AstroJourneyCompiled/assets/67559610/1d52171c-556f-44bd-88ca-e4740959b552)
-
-#### Player Character Mechanics:  
-![Player Mechanics](https://github.com/Agushh/AstroJourneyCompiled/assets/67559610/b1be75d5-e968-405b-9242-ed92742dfba3)
